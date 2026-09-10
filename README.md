@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 ## Geometry
 |  |
